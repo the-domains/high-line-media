@@ -29,6 +29,9 @@ navigation:
   - name: About
     id: 7cde3189-f37a-4846-9b50-bafb27c83bdb
     type: content
+  - name: Outdoors
+    id: 325094f6-08c1-4de3-8366-e6ed705aaae5
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/79081e68-ff07-4f0e-bb13-61f6a9052bd9.jpg
 collections:
