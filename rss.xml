@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[High Line Media]]></title>
         <description><![CDATA[High Line Media]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/high-line-media/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 17:56:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Aug 2016 06:16:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/high-line-media/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/10d1d7e9-185c-456e-a6a0-bc35ca6b8e6a.jpg">]]></description>
-            <link>undefined31df9161-3ed8-4f8f-a5c1-fb6756537c2c/index.html</link>
-            <guid isPermaLink="false">31df9161-3ed8-4f8f-a5c1-fb6756537c2c</guid>
-            <pubDate>Mon, 09 May 2016 17:55:41 GMT</pubDate>
+            <title><![CDATA[Stars and Satellites ]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a2f3824-e53d-4549-a160-9ea4fd31223f.jpg">]]></description>
+            <link>https://thegrid.ai/high-line-media/stars-and-satellites/index.html</link>
+            <guid isPermaLink="false">18fda0ba-5eca-48e0-9d37-0f2aafe045df</guid>
+            <pubDate>Sun, 21 Aug 2016 06:15:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
