@@ -6,12 +6,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.4032258
   brandStrength: 0.4892473
@@ -23,23 +23,23 @@ color:
     - '#303030'
     - '#788188'
   lightness: 0.6935484
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
 navigation:
   - name: About
     id: 7cde3189-f37a-4846-9b50-bafb27c83bdb
     type: content
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: Michael Swamer Photo
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.2809782933909446
-layout_spectrum: 0
+layout_spectrum: 0.2706093
