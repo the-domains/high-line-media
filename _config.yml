@@ -1,5 +1,36 @@
-title: 'The Contact Sheet '
-purpose: []
+typography_spectrum: 0.2809782933909446
+color:
+  saturation: 0.4032258
+  brandStrength: 0.4892473
+  lightness: 0.6935484
+  brandColors:
+    - '#45617E'
+    - '#B0B2B4'
+    - '#DBD8D3'
+    - '#303030'
+    - '#788188'
+  rhythmicContrast: 0.7132617
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6846526728477329
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1faa8d97-5826-43e2-a6ce-11d3408e96ae.jpg
+name: Michael Swamer Photo
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: About
+    id: 7cde3189-f37a-4846-9b50-bafb27c83bdb
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -12,34 +43,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.4032258
-  brandStrength: 0.4892473
-  rhythmicContrast: 0.7132617
-  brandColors:
-    - '#45617E'
-    - '#B0B2B4'
-    - '#DBD8D3'
-    - '#303030'
-    - '#788188'
-  lightness: 0.6935484
-navigation:
-  - name: About
-    id: 7cde3189-f37a-4846-9b50-bafb27c83bdb
-    type: content
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Michael Swamer Photo
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.2809782933909446
-layout_spectrum: 0.2706093
+title: 'The Contact Sheet '
+purpose: []
