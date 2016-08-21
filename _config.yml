@@ -19,8 +19,7 @@ analytics:
   twitter: null
   google: null
   facebook: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1faa8d97-5826-43e2-a6ce-11d3408e96ae.jpg
+logo: null
 name: Michael Swamer Photo
 cta:
   bucket: null
@@ -30,7 +29,8 @@ navigation:
   - name: About
     id: 7cde3189-f37a-4846-9b50-bafb27c83bdb
     type: content
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/79081e68-ff07-4f0e-bb13-61f6a9052bd9.jpg
 collections:
   - index:
       path: /
