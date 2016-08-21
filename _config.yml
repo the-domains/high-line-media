@@ -1,30 +1,39 @@
-typography_spectrum: 0.2809782933909446
+title: 'The Contact Sheet '
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.4032258
   brandStrength: 0.4892473
-  lightness: 0.6935484
+  rhythmicContrast: 0.7132617
   brandColors:
     - '#45617E'
     - '#B0B2B4'
     - '#DBD8D3'
     - '#303030'
     - '#788188'
-  rhythmicContrast: 0.7132617
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.6846526728477329
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-logo: null
-name: Michael Swamer Photo
+  lightness: 0.6935484
 cta:
   bucket: null
   version: null
   domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Michael Swamer Photo
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/79081e68-ff07-4f0e-bb13-61f6a9052bd9.jpg
 navigation:
   - name: About
     id: 7cde3189-f37a-4846-9b50-bafb27c83bdb
@@ -32,19 +41,10 @@ navigation:
   - name: Outdoors
     id: 325094f6-08c1-4de3-8366-e6ed705aaae5
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/79081e68-ff07-4f0e-bb13-61f6a9052bd9.jpg
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-title: 'The Contact Sheet '
-purpose: []
+opengraph:
+  image: null
+  type: null
+  appId: null
+logo: null
+typography_spectrum: 0.2809782933909446
+layout_spectrum: 0
