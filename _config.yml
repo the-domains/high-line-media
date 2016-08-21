@@ -1,3 +1,16 @@
+layout_spectrum: 0.6846526728477329
+typography_spectrum: 0.2809782933909446
+color:
+  saturation: 0.4032258
+  brandStrength: 0.4892473
+  lightness: 0.6935484
+  brandColors:
+    - '#45617E'
+    - '#B0B2B4'
+    - '#DBD8D3'
+    - '#303030'
+    - '#788188'
+  rhythmicContrast: 0.7132617
 title: 'The Contact Sheet '
 purpose: []
 collections:
@@ -12,17 +25,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.4032258
-  brandStrength: 0.4892473
-  lightness: 0.6935484
-  brandColors:
-    - '#45617E'
-    - '#B0B2B4'
-    - '#DBD8D3'
-    - '#303030'
-    - '#788188'
-  rhythmicContrast: 0.7132617
 cta:
   bucket: null
   version: null
@@ -37,5 +39,3 @@ opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.3280569803901017
-layout_spectrum: 0
