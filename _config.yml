@@ -1,29 +1,41 @@
-name: Michael Swamer Photo
-favicon: null
-layout_spectrum: 0.24983
-typography_spectrum: 0.32805698039010167
 title: 'The Contact Sheet '
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.4032258
+  brandStrength: 0.4892473
+  lightness: 0.6935484
+  brandColors:
+    - '#45617E'
+    - '#B0B2B4'
+    - '#DBD8D3'
+    - '#303030'
+    - '#788188'
+  rhythmicContrast: 0.7132617
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: Michael Swamer Photo
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#1a1b1e'
-    - '#fdfdfd'
-    - '#434e4c'
-    - '#95412d'
-    - '#ff9858'
-  brandStrength: 0.75
-  lightness: 0.625
-  saturation: 0.6875
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.3280569803901017
+layout_spectrum: 0
