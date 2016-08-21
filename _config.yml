@@ -1,6 +1,6 @@
-name: High Line Media
+name: Michael Swamer Photo
 favicon: null
-layout_spectrum: 0.21572701819241047
+layout_spectrum: 0.24983
 typography_spectrum: 0.32805698039010167
 title: 'The Contact Sheet '
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#a1a1a1'
-    - '#737373'
-    - '#525252'
-    - '#ffffff'
-    - '#000000'
+    - '#1a1b1e'
+    - '#fdfdfd'
+    - '#434e4c'
+    - '#95412d'
+    - '#ff9858'
   brandStrength: 0.75
   lightness: 0.625
   saturation: 0.6875
